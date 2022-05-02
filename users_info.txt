@@ -1,0 +1,11 @@
+Since my db is hosted on local host, all functions based on MySQL attached in the zip folder would not work.
+But I would still provide these login info for your reference.
+Below information are used in my demo.
+
+Admin:
+admin
+admin
+
+Customer:
+customer
+customer

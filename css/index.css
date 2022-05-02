@@ -1,0 +1,23 @@
+#top-nav {}
+
+.big-title {
+    text-align: center;
+    font-size: 80px;
+    font-weight: 300;
+    margin: 40vh auto;
+}
+
+.main-menu {
+    margin: 0;
+    padding: 20px;
+    font-size: 70px;
+    font-weight: 300;
+}
+
+.card-text {
+    min-height: 80px;
+}
+
+.main-content {
+    min-height: 74vh;
+}

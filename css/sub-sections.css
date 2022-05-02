@@ -1,0 +1,64 @@
+.main-content{
+    min-height: 77vh;
+}
+
+.sub-section-heading{
+    text-align: center;
+}
+
+.sub-section-image{
+  width: 50%;
+}
+
+.sub-section-content{
+    margin-bottom: 40px;
+}
+
+.chart-title{
+    margin-bottom: 20px;
+}
+
+hr{
+    margin-top: 0;
+}
+
+.list-group-numbered{
+    margin-bottom: 5px;
+}
+
+.facilities{
+    font-size: larger;
+}
+
+.form-title{
+    letter-spacing: 2px;
+    line-height: 1.2;
+}
+
+.form-group{
+    width: 50%;
+    margin-top: 15px;
+}
+
+.summary{
+    font-size: 20px;
+    line-height: 1.1;
+}
+
+.quote{
+    font-weight: 400;
+    font-size: x-large;
+    font-family: Gill Sans;
+}
+
+.featured-guides{
+    text-decoration:none;
+    color: #6495ED;
+}
+
+.coming-soon{
+    font-size: 100px;
+    text-decoration: underline;
+    font-weight: 600;
+    color: #40445a;
+}

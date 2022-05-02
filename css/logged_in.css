@@ -1,0 +1,10 @@
+.logout-btn {
+    color: red;
+}
+
+.add-to-cart-btn {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 10px;
+}
